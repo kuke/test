@@ -3,10 +3,10 @@
 <table>
     <thead>
         <tr>
-            <th  style="width: 250px"> 
+            <th  style="width: 500px"> 
             WaveFlow
             </th>
-            <th  style="width: 250px">
+            <th  style="width: 500px">
             <a href="https://paddlespeech.bj.bcebos.com/Parakeet/clarinet_ljspeech_ckpt_1.0.zip">ClariNet</a>
             </th>
         </tr>
