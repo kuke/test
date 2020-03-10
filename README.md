@@ -22,16 +22,12 @@
             <th>
             <a href="https://paddlespeech.bj.bcebos.com/Parakeet/clarinet_ljspeech_samples_1.0/step_500000_sentence_0.wav">
             <img src="images/audio_icon.png" width=250 /></a><br>
-            
             <a href="https://paddlespeech.bj.bcebos.com/Parakeet/clarinet_ljspeech_samples_1.0/step_500000_sentence_1.wav">
             <img src="images/audio_icon.png" width=250 /></a><br>
-            
             <a href="https://paddlespeech.bj.bcebos.com/Parakeet/clarinet_ljspeech_samples_1.0/step_500000_sentence_2.wav">
             <img src="images/audio_icon.png" width=250 /></a><br>
-            
             <a href="https://paddlespeech.bj.bcebos.com/Parakeet/clarinet_ljspeech_samples_1.0/step_500000_sentence_3.wav">
             <img src="images/audio_icon.png" width=250 /></a><br>
-            
             <a href="https://paddlespeech.bj.bcebos.com/Parakeet/clarinet_ljspeech_samples_1.0/step_500000_sentence_4.wav">
             <img src="images/audio_icon.png" width=250 /></a>            
             </th>
