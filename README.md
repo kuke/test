@@ -1,7 +1,7 @@
 This is a test
 
 <style>
-  table {margin: auto;} 
+  table{margin: auto;} 
 </style>
 <table>
     <thead>
