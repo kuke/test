@@ -1,5 +1,4 @@
 <div align="center">
-
 <table>
     <thead>
         <tr>
@@ -35,6 +34,5 @@
         </tr>
     </tbody>
 </table>
-
 </div>
 
