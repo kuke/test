@@ -3,7 +3,6 @@ This is a test
 <style>
   table {margin: auto;} 
 </style>
-<div align="center">
 <table>
     <thead>
         <tr>
@@ -39,5 +38,4 @@ This is a test
         </tr>
     </tbody>
 </table>
-</div>
 
