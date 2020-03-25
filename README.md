@@ -1,8 +1,7 @@
 This is a test
 
 <center>
-
-<table style="margin:auto;">
+<table>
     <thead>
         <tr>
             <th  style="width: 500px"> 
@@ -37,5 +36,4 @@ This is a test
         </tr>
     </tbody>
 </table>
-
 </center>
