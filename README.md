@@ -1,6 +1,6 @@
 This is a test
 
-<center>
+<div align="center">
 <table>
     <thead>
         <tr>
@@ -36,4 +36,4 @@ This is a test
         </tr>
     </tbody>
 </table>
-</center>
+</div>
