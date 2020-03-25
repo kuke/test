@@ -1,5 +1,11 @@
 This is a test
 
+<style>
+table {
+margin: auto;
+}
+</style>
+
 <table style="margin:auto;">
     <thead>
         <tr>
