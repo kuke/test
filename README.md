@@ -1,10 +1,6 @@
 This is a test
 
-<style>
-table {
-margin: auto;
-}
-</style>
+<center>
 
 <table style="margin:auto;">
     <thead>
@@ -42,3 +38,4 @@ margin: auto;
     </tbody>
 </table>
 
+</center>
