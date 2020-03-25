@@ -1,9 +1,6 @@
 This is a test
 
-<style>
-  table{margin: auto;} 
-</style>
-<table>
+<table style="margin:auto;">
     <thead>
         <tr>
             <th  style="width: 500px"> 
